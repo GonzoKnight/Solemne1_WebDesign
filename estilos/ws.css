@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-size: 1em;
+  line-height: 150%;
+  font-color:#252525;
+  font-family: trebuchet ms;
+}
+header{
+  background-color: #222222;
+  height: 50px;
+  z-index: 10;
+}
+
+footer{
+  border-top:10px solid #c4c4c4;
+  background-color:#222222;
+  color:#fffff8;
+  text-align: center;
+}
+
+.footer{
+  padding: 15px 0px;
+}
+
+article{
+  vertical-align: top !important;
+
+}
+
+.dvContenido{
+  padding: 10px 0px 10px 0px;
+  margin: 0px 0px 10px 0px;
+  background-color: #e2e2e2;
+  box-sizing: border-box;
+}
+
+.dvMosaico{
+  padding: 0px;
+}
